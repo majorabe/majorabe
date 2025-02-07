@@ -9,6 +9,9 @@ I’m Majorabe, a Systems Engineer and student at CodeCrypto Academy. My focus i
 ## Projects
 
 ###### Web2.5 
+- **Proyecto Faucet**
+  [https://github.com/codecrypto-academy/majorabe/tree/web2.5-faucet](https://github.com/codecrypto-academy/majorabe/tree/web2.5-faucet)
+
 - **Proyecto de Criptografía**  
   
 

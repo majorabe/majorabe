@@ -13,13 +13,17 @@
 ###### This is a service that allows users to interact with a faucet through their MetaMask account. Users can request funds, check their balance and make transfers from one account to another. - [https://github.com/codecrypto-academy/majorabe/tree/web2.5-faucet](https://github.com/codecrypto-academy/majorabe/tree/web2.5-faucet)
 
 
+🔹 **SQL Project with Docker** 
+###### This project configures multiple databases (MySQL, PostgreSQL, SQL Server and Oracle) inside Docker containers. - [https://github.com/codecrypto-academy/majorabe/tree/web2.5-SQL](https://github.com/codecrypto-academy/majorabe/tree/web2.5-SQL)
+
+
 🔹 **Proyecto de Criptografía**  
   
 
 🔹 **Proyecto Explorador de bloques Ethereum**  
   
 
-🔹 **Proyecto de Bases de datos en Docker**  
+
   
 
 🔹 **Proyecto de Diseño**  

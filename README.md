@@ -8,9 +8,10 @@ I’m Majorabe, a Systems Engineer and student at CodeCrypto Academy. My focus i
 
 ## Projects
 
-###### Web2.5 
-- **Proyecto Faucet**
-  [https://github.com/codecrypto-academy/majorabe/tree/web2.5-faucet](https://github.com/codecrypto-academy/majorabe/tree/web2.5-faucet)
+###### Web2.5
+🔹 **Proyecto Faucet**  
+###### Este es un servicio que permite a los usuarios interactuar con una faucet a través de su cuenta MetaMask. Los usuarios pueden solicitar fondos, revisar su balance y hacer transferencias de una cuenta a otra. - [https://github.com/codecrypto-academy/majorabe/tree/web2.5-faucet](https://github.com/codecrypto-academy/majorabe/tree/web2.5-faucet)
+
 
 - **Proyecto de Criptografía**  
   

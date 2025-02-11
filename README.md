@@ -30,7 +30,7 @@ This project aims to facilitate the exchange of files in a reliable and secure m
 <br>
 
 🔹**Explorer Project**<br>
-
+Exploration project on the Ethereum blockchain with expert provider Infura.<br> - [https://github.com/codecrypto-academy/majorabe/tree/web2.5-Explorer](https://github.com/codecrypto-academy/majorabe/tree/web2.5-Explorer)
 <br>
 
 🔹**Ethereum Project**<br>

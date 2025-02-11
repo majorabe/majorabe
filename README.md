@@ -1,6 +1,6 @@
 ###### About Me
 
-✨ I’m Majorabe, a Systems Engineer and student at CodeCrypto Academy. My focus is on building real-world applications with **decentralized solutions** that deliver tangible value.
+✨ I am Majorabe, a systems engineer currently training as a Blockchain Engineer at CodeCrypto Academy. My focus is on developing real-world applications with decentralized solutions that provide tangible value. I share my progress at the academy and other projects that contribute to my professional development.
 
 ##### CodeCrypto Academy Progress
 🔥 [https://github.com/codecrypto-academy/majorabe](https://github.com/codecrypto-academy/majorabe)
@@ -15,6 +15,9 @@
 
 🔹 **SQL Project with Docker** 
 ###### This project configures multiple databases (MySQL, PostgreSQL, SQL Server and Oracle) inside Docker containers. - [https://github.com/codecrypto-academy/majorabe/tree/web2.5-SQL](https://github.com/codecrypto-academy/majorabe/tree/web2.5-SQL)
+
+
+🔹 **ETH shopping cart Project / Cesta ETH**  
 
 
 🔹 **Proyecto de Criptografía**  

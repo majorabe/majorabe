@@ -8,29 +8,34 @@
 
 ## Projects
 
-###### Web2.5
-🔹 **Faucet Project**  
-###### This is a service that allows users to interact with a faucet through their MetaMask account. Users can request funds, check their balance and make transfers from one account to another. - [https://github.com/codecrypto-academy/majorabe/tree/web2.5-faucet](https://github.com/codecrypto-academy/majorabe/tree/web2.5-faucet)
+### Web2.5
+🔹**Faucet Project**<br>
+This is a service that allows users to interact with a faucet through their MetaMask account. Users can request funds, check their balance and make transfers from one account to another. - [https://github.com/codecrypto-academy/majorabe/tree/web2.5-faucet](https://github.com/codecrypto-academy/majorabe/tree/web2.5-faucet)
+<br>
 
+🔹**SQL Project with Docker**<br>
+This project configures multiple databases (MySQL, PostgreSQL, SQL Server and Oracle) inside Docker containers. - [https://github.com/codecrypto-academy/majorabe/tree/web2.5-SQL](https://github.com/codecrypto-academy/majorabe/tree/web2.5-SQL)
+<br>
 
-🔹 **SQL Project with Docker** 
-###### This project configures multiple databases (MySQL, PostgreSQL, SQL Server and Oracle) inside Docker containers. - [https://github.com/codecrypto-academy/majorabe/tree/web2.5-SQL](https://github.com/codecrypto-academy/majorabe/tree/web2.5-SQL)
+🔹**ETH shopping cart Project / Cesta ETH**<br>
+Shopping cart with products from the northwind database. You can pay from Metamask. - 
+<br>
 
+🔹**Design Project**<br>
+Frontend project designed with React. Styling component management.
+<br>
 
-🔹 **ETH shopping cart Project / Cesta ETH**  
+🔹**Cryptography Project**<br>
+This project aims to facilitate the exchange of files in a reliable and secure manner using modern cryptography. - [https://github.com/codecrypto-academy/majorabe/tree/web2.5-cryptography](https://github.com/codecrypto-academy/majorabe/tree/web2.5-cryptography)
+<br>
 
+🔹**Explorer Project**<br>
 
-🔹 **Proyecto de Criptografía**  
-  
+<br>
 
-🔹 **Proyecto Explorador de bloques Ethereum**  
-  
+🔹**Ethereum Project**<br>
 
-
-  
-
-🔹 **Proyecto de Diseño**  
-  
+<br>
 
 
 ## 🛠️ Skills & Tools

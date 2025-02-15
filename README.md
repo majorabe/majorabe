@@ -18,7 +18,7 @@ This project configures multiple databases (MySQL, PostgreSQL, SQL Server and Or
 <br>
 
 🔹**ETH shopping cart Project / Cesta ETH**<br>
-Shopping cart with products from the northwind database. You can pay from Metamask. - 
+Shopping cart with products from the northwind database. You can pay from Metamask.<br> - [https://github.com/codecrypto-academy/majorabe/tree/web2.5-cestaETH](https://github.com/codecrypto-academy/majorabe/tree/web2.5-cestaETH)
 <br>
 
 🔹**Design Project**<br>
@@ -34,7 +34,7 @@ Exploration project on the Ethereum blockchain with expert provider Infura.<br> 
 <br>
 
 🔹**Ethereum Project**<br>
-
+This project creates a private Ethereum network with multiple nodes using a Proof of Authority (PoA) consensus mechanism.<br> - [https://github.com/codecrypto-academy/majorabe/tree/web2.5-Ethereum](https://github.com/codecrypto-academy/majorabe/tree/web2.5-Ethereum)
 <br>
 
 
